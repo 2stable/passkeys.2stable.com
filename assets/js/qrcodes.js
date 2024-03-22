@@ -1,0 +1,1 @@
+const qrcodeContainer=document.getElementById("canvas"),qrcode=new QRCode(qrcodeContainer,{type:"svg",width:128,height:128,colorDark:"#1B294C"});window.onload=function(){qrcode.makeCode("https://apps.apple.com/app/apple-store/id1659205365?pt=122171064&ct=/services/authgear.com")};

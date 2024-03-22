@@ -1,0 +1,30 @@
+[
+  {
+    "question": "0001",
+    "permalink": "/help/iOS/how-does-sync-&-backup-work/"
+  },
+  {
+    "question": "0002",
+    "permalink": "/help/iOS/having-trouble-with-synchronization/"
+  },
+  {
+    "question": "0005",
+    "permalink": "/help/iOS/how-to-set-up-passkeys-app-as-a-main-passkeys-app/"
+  },
+  {
+    "question": "0007",
+    "permalink": "/help/iOS/how-to-restore/synchronize-my-accounts-on-a-new-device/"
+  },
+  {
+    "question": "0004",
+    "permalink": "/help/iOS/i-am-getting-the-not-authenticated-message/"
+  },
+  {
+    "question": "0006",
+    "permalink": "/help/iOS/i-forgot-my-password-how-do-i-reset-it/"
+  },
+  {
+    "question": "0003",
+    "permalink": "/help/iOS/how-to-switch-between-vaults/"
+  }
+]
