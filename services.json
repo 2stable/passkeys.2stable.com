@@ -1,0 +1,998 @@
+[
+  {
+    "name": "Adobe",
+    "website": "https://www.adobe.com",
+    "host": "adobe.com",
+    "doc": "https://helpx.adobe.com/manage-account/using/secure-sign-in-with-passkey.html#set-up"
+  },
+  {
+    "name": "Affirm",
+    "website": "https://affirm.com",
+    "host": "affirm.com",
+    "doc": "https://helpcenter.affirm.com/s/article/Set-up-a-Passkey"
+  },
+  {
+    "name": "Air New Zealand",
+    "website": "https://airnewzealand.co.nz",
+    "host": "airnewzealand.co.nz",
+    "doc": "https://www.airnewzealand.co.nz/manage-multi-factor-authentication#passkey"
+  },
+  {
+    "name": "Albert Heijn",
+    "website": "https://ah.nl",
+    "host": "ah.nl",
+    "doc": "https://www.ah.nl/account/inloggegevens/passkey"
+  },
+  {
+    "name": "Amazon",
+    "website": "https://amazon.com",
+    "host": "amazon.com",
+    "doc": "https://www.amazon.com/your-account"
+  },
+  {
+    "name": "Anki Forums",
+    "website": "https://forums.ankiweb.net",
+    "host": "forums.ankiweb.net",
+    "doc": "https://forums.ankiweb.net/u/username/preferences/security"
+  },
+  {
+    "name": "Apple",
+    "website": "https://apple.com",
+    "host": "apple.com",
+    "doc": null
+  },
+  {
+    "name": "Arcalive",
+    "website": "https://arca.live",
+    "host": "arca.live",
+    "doc": "https://arca.live/settings/account"
+  },
+  {
+    "name": "Armstrong Bank",
+    "website": "https://www.armstrong.bank",
+    "host": "armstrong.bank",
+    "doc": "https://my.armstrong.bank/login"
+  },
+  {
+    "name": "Arpari",
+    "website": "https://arpari.com",
+    "host": "arpari.com",
+    "doc": "https://app.arpari.com/login"
+  },
+  {
+    "name": "au",
+    "website": "https://id.auone.jp",
+    "host": "id.auone.jp",
+    "doc": "https://www.au.com/support/faq/detail/26/a00000000826/"
+  },
+  {
+    "name": "Authgear",
+    "website": "https://authgear.com",
+    "host": "authgear.com",
+    "doc": "https://authgear.com"
+  },
+  {
+    "name": "Bagou450",
+    "website": "http://bagou450.com",
+    "host": "bagou450.com",
+    "doc": null
+  },
+  {
+    "name": "Best Buy",
+    "website": "https://bestbuy.com",
+    "host": "bestbuy.com",
+    "doc": "https://www.bestbuy.com/identity/accountSettings/"
+  },
+  {
+    "name": "Beyond Identity",
+    "website": "https://beyondidentity.com",
+    "host": "beyondidentity.com",
+    "doc": "https://console-us.beyondidentity.com/signup"
+  },
+  {
+    "name": "Binance",
+    "website": "https://www.binance.com",
+    "host": "binance.com",
+    "doc": "https://www.binance.com/en/support/faq/how-to-create-a-passkey-for-my-binance-account-2aec8fe0437242f2a5fbef9cdb71d4c2"
+  },
+  {
+    "name": "Bitwarden",
+    "website": "https://bitwarden.com",
+    "host": "bitwarden.com",
+    "doc": null
+  },
+  {
+    "name": "BMW",
+    "website": "https://bmw.com",
+    "host": "bmw.com",
+    "doc": ""
+  },
+  {
+    "name": "Bolt",
+    "website": "https://bolt.eu",
+    "host": "bolt.eu",
+    "doc": "bolt://action/profile/subscreen?id=login-and-security"
+  },
+  {
+    "name": "Boursorama",
+    "website": "https://www.boursorama.com",
+    "host": "boursorama.com",
+    "doc": "https://www.boursorama.com/aide-en-ligne/securite/proteger-mon-espace-client/question/comment-se-connecter-a-votre-espace-client-grace-aux-cles-de-securite-5165516"
+  },
+  {
+    "name": "Bridgecrest",
+    "website": "https://www2.bridgecrest.com",
+    "host": "bridgecrest.com",
+    "doc": "https://bridgecrest.com"
+  },
+  {
+    "name": "Cape Cod 5",
+    "website": "https://capecodfive.com",
+    "host": "capecodfive.com",
+    "doc": "https://online.capecodfive.com/settings/security/"
+  },
+  {
+    "name": "CardPointers",
+    "website": "https://cardpointers.com",
+    "host": "cardpointers.com",
+    "doc": "https://apps.apple.com/app/apple-store/id1472875808?pt=285054&ct=homepage&mt=8"
+  },
+  {
+    "name": "Caremark",
+    "website": "https://www.caremark.com",
+    "host": "caremark.com",
+    "doc": "https://www.caremark.com/digital-fast/caremark-login-web/#/login"
+  },
+  {
+    "name": "Chek",
+    "website": "https://chekspend.com",
+    "host": "chekspend.com",
+    "doc": "https://help.chekspend.com/hc/en-us/articles/22351702437780-Get-Started-Guide-Setting-up-a-Chek-Passkey"
+  },
+  {
+    "name": "Cloudflare",
+    "website": "https://cloudflare.com",
+    "host": "cloudflare.com",
+    "doc": "https://support.cloudflare.com/hc/en-us/articles/200167906-Securing-user-access-with-two-factor-authentication-2FA-#6Gqe6f3nZtXSTpwyS2PBZ1"
+  },
+  {
+    "name": "Cloze",
+    "website": "https://cloze.com",
+    "host": "cloze.com",
+    "doc": "https://www.cloze.com/in/#setup"
+  },
+  {
+    "name": "Coinbase",
+    "website": "https://coinbase.com",
+    "host": "coinbase.com",
+    "doc": "https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/passkeys"
+  },
+  {
+    "name": "Corbado",
+    "website": "https://corbado.com",
+    "host": "corbado.com",
+    "doc": "https://app.corbado.com/"
+  },
+  {
+    "name": "Credit Union of Texas",
+    "website": "https://www.cutx.org",
+    "host": "cutx.org",
+    "doc": "https://online.cutx.org/settings/security"
+  },
+  {
+    "name": "Crowdin",
+    "website": "https://crowdin.com",
+    "host": "crowdin.com",
+    "doc": "https://crowdin.com/settings#account"
+  },
+  {
+    "name": "CustomerPing.AI",
+    "website": "https://customerping.ai",
+    "host": "customerping.ai",
+    "doc": "https://customerping.ai/app/settings/login"
+  },
+  {
+    "name": "CVS",
+    "website": "https://www.cvs.com/",
+    "host": "cvs.com",
+    "doc": "https://www.cvs.com/account/login"
+  },
+  {
+    "name": "CVS Speciality",
+    "website": "https://www.cvsspecialty.com",
+    "host": "cvsspecialty.com",
+    "doc": "https://www.cvsspeciality.com/digital-fastproxy/specialty/#/login"
+  },
+  {
+    "name": "DataPacket",
+    "website": "https://datapacket.com",
+    "host": "datapacket.com",
+    "doc": "https://app.datapacket.com/settings/security"
+  },
+  {
+    "name": "Daylite",
+    "website": "https://www.marketcircle.com",
+    "host": "marketcircle.com",
+    "doc": "https://www.marketcircle.com/learn/passkeys"
+  },
+  {
+    "name": "Descope passkeys demo",
+    "website": "https://passkeys.guru",
+    "host": "passkeys.guru",
+    "doc": "https://passkeys.guru"
+  },
+  {
+    "name": "Devolutions",
+    "website": "https://devolutions.com",
+    "host": "devolutions.com",
+    "doc": "https://portal.devolutions.com/security/key"
+  },
+  {
+    "name": "Dinero",
+    "website": "https://dinero.dk",
+    "host": "dinero.dk",
+    "doc": "https://accountsettings.connect.visma.com/"
+  },
+  {
+    "name": "Discord",
+    "website": null,
+    "host": "discord.gg",
+    "doc": null
+  },
+  {
+    "name": "Discord",
+    "website": null,
+    "host": "discord.com",
+    "doc": null
+  },
+  {
+    "name": "Discourse",
+    "website": "https://discourse.org",
+    "host": "discourse.org",
+    "doc": null
+  },
+  {
+    "name": "Docomo",
+    "website": "https://id.smt.docomo.ne.jp",
+    "host": "id.smt.docomo.ne.jp",
+    "doc": "https://id.smt.docomo.ne.jp/ast/tra/id/conts/setwebauthn/top/"
+  },
+  {
+    "name": "Documenso",
+    "website": "https://documenso.com",
+    "host": "documenso.com",
+    "doc": "https://app.documenso.com/settings/security/passkeys"
+  },
+  {
+    "name": "DocuSign",
+    "website": "https://docusign.com",
+    "host": "docusign.com",
+    "doc": "https://support.docusign.com/s/document-item?language=en_US&bundleId=jux1643235969954&topicId=niw1651694673085.html&_LANG=enus"
+  },
+  {
+    "name": "Duke",
+    "website": "https://duke.edu/",
+    "host": "duke.edu",
+    "doc": "https://idms-mfa.oit.duke.edu/mfa/unlock/help"
+  },
+  {
+    "name": "eBay",
+    "website": "https://ebay.com",
+    "host": "ebay.com",
+    "doc": "https://accounts.ebay.com/acctsec/security-center"
+  },
+  {
+    "name": "Fairfax County, Virginia (MyFairfax)",
+    "website": "https://www.fairfaxcounty.gov/myfairfax/",
+    "host": "fairfaxcounty.gov",
+    "doc": "https://www.fairfaxcounty.gov/myfairfax/portal/ffx-index.jsp"
+  },
+  {
+    "name": "Finom",
+    "website": "https://finom.co",
+    "host": "finom.co",
+    "doc": "https://help.finom.co/en/articles/8512790-what-are-passkeys-and-how-do-i-use-them"
+  },
+  {
+    "name": "First Financial Bank",
+    "website": "https://secure.bankatfirst.com",
+    "host": "secure.bankatfirst.com",
+    "doc": "https://secure.bankatfirst.com/settings/security"
+  },
+  {
+    "name": "Fleeps",
+    "website": "https://fleeps.co",
+    "host": "fleeps.co",
+    "doc": "https://fleeps.co/atlas"
+  },
+  {
+    "name": "FormX.ai",
+    "website": "https://formx.ai",
+    "host": "formx.ai",
+    "doc": null
+  },
+  {
+    "name": "ForwardEmail",
+    "website": "https://forwardemail.net",
+    "host": "forwardemail.net",
+    "doc": "https://forwardemail.net/en/faq#do-you-support-passkeys-and-webauthn"
+  },
+  {
+    "name": "FreePrints",
+    "website": "https://www.freeprints.com/",
+    "host": "freeprints.com",
+    "doc": ""
+  },
+  {
+    "name": "FusionAuth",
+    "website": "https://fusionauth.io",
+    "host": "fusionauth.io",
+    "doc": "https://fusionauth.io/docs/v1/tech/passwordless/webauthn-passkeys"
+  },
+  {
+    "name": "Gemini Exchange",
+    "website": "https://gemini.com",
+    "host": "gemini.com",
+    "doc": "https://www.gemini.com/blog/passkeys-add-security-feature-to-gemini-account"
+  },
+  {
+    "name": "GitHub",
+    "website": "https://github.com",
+    "host": "github.com",
+    "doc": "https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys"
+  },
+  {
+    "name": "GitLab",
+    "website": "https://gitlab.com",
+    "host": "gitlab.com",
+    "doc": "https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html#set-up-a-webauthn-device"
+  },
+  {
+    "name": "GoDaddy",
+    "website": "https://godaddy.com",
+    "host": "godaddy.com",
+    "doc": "https://sso.godaddy.com/security"
+  },
+  {
+    "name": "Google",
+    "website": "https://google.com",
+    "host": "google.com",
+    "doc": "https://support.google.com/accounts/answer/13548313"
+  },
+  {
+    "name": "haeppie",
+    "website": "https://haeppie.com/",
+    "host": "haeppie.com",
+    "doc": "https://be.haeppie.com/#register"
+  },
+  {
+    "name": "Hancock",
+    "website": "https://hancock.ink",
+    "host": "hancock.ink",
+    "doc": "https://app.hancock.ink"
+  },
+  {
+    "name": "Hanko.io",
+    "website": "https://hanko.io",
+    "host": "hanko.io",
+    "doc": null
+  },
+  {
+    "name": "Hard Wax",
+    "website": "https://hardwax.com",
+    "host": "hardwax.com",
+    "doc": "https://hardwax.com/my-details/#login-settings"
+  },
+  {
+    "name": "Hatena",
+    "website": "https://hatena.ne.jp",
+    "host": "hatena.ne.jp",
+    "doc": "https://hatena.zendesk.com/hc/ja/articles/29891975697177"
+  },
+  {
+    "name": "Home Assistant",
+    "website": "https://community.home-assistant.io",
+    "host": "community.home-assistant.io",
+    "doc": "https://community.home-assistant.io/"
+  },
+  {
+    "name": "Home Depot",
+    "website": "http://www.homedepot.com",
+    "host": "homedepot.com",
+    "doc": "https://www.homedepot.com/myaccount/security"
+  },
+  {
+    "name": "Horizon Pics",
+    "website": "https://horizon.pics",
+    "host": "horizon.pics",
+    "doc": "https://docs.hrzn.cool/pics/webauthn"
+  },
+  {
+    "name": "ID.me",
+    "website": null,
+    "host": "id.me",
+    "doc": "https://help.id.me/hc/en-us/articles/10295798300951-Setting-up-Passkey-multi-factor-authentication-MFA-"
+  },
+  {
+    "name": "Instacart",
+    "website": "https://instacart.com",
+    "host": "instacart.com",
+    "doc": null
+  },
+  {
+    "name": "Intastellar Accounts",
+    "website": "https://intastellaraccounts.com",
+    "host": "intastellaraccounts.com",
+    "doc": "https://my.intastellaraccounts.com/security/passkeys"
+  },
+  {
+    "name": "KAYAK",
+    "website": "https://kayak.com",
+    "host": "kayak.com",
+    "doc": "https://www.kayak.com/profile/account"
+  },
+  {
+    "name": "KEMBA Financial Credit Union",
+    "website": "https://my.kemba.org",
+    "host": "my.kemba.org",
+    "doc": "https://my.kemba.org/settings/security"
+  },
+  {
+    "name": "Klemn",
+    "website": "https://klemn.net",
+    "host": "klemn.net",
+    "doc": "https://klemn.net/parametres/securite"
+  },
+  {
+    "name": "LGTM.lol",
+    "website": "https://lgtm.lol",
+    "host": "lgtm.lol",
+    "doc": "https://lgtm.lol/signin"
+  },
+  {
+    "name": "Link by Stripe",
+    "website": "https://link.com",
+    "host": "link.com",
+    "doc": "https://app.link.com"
+  },
+  {
+    "name": "Link3",
+    "website": "https://link3.to",
+    "host": "link3.to",
+    "doc": "https://link3.to/me/settings"
+  },
+  {
+    "name": "LinkedIn",
+    "website": "https://linkedin.com",
+    "host": "linkedin.com",
+    "doc": "https://www.linkedin.com/help/linkedin/answer/a1621596"
+  },
+  {
+    "name": "lnk.bio",
+    "website": "https://lnk.bio",
+    "host": "lnk.bio",
+    "doc": "https://lnk.bio/linkin/log-in-with-passkeys-to-lnkbio"
+  },
+  {
+    "name": "Locker ",
+    "website": "https://Locker.io",
+    "host": "locker.io",
+    "doc": "https://support.locker.io/articles/What-are-passkeys-How-to-create-passkeys-for-a-Locker-account-d59668df96034b42859c05ed50149ba4"
+  },
+  {
+    "name": "Login.gov",
+    "website": "https://login.gov",
+    "host": "login.gov",
+    "doc": "https://secure.login.gov/account"
+  },
+  {
+    "name": "Lowe's",
+    "website": "https://www.lowes.com",
+    "host": "lowes.com",
+    "doc": ""
+  },
+  {
+    "name": "LuxID",
+    "website": "https://luxid.lu",
+    "host": "luxid.lu",
+    "doc": "https://account.luxid.lu/web/methods/devices/webauthn"
+  },
+  {
+    "name": "Lääkäri.chat",
+    "website": "https://laakari.chat",
+    "host": "laakari.chat",
+    "doc": "https://lääkäri.chat/help#webauthn"
+  },
+  {
+    "name": "Marshmallow",
+    "website": "https://marshmallow-qa.com",
+    "host": "marshmallow-qa.com",
+    "doc": "https://diverdown.wraptas.site/3ec9bbfd244d41149909d1cd5f8003ec"
+  },
+  {
+    "name": "Mastodon",
+    "website": null,
+    "host": "mastodon.social",
+    "doc": "https://mastodon.social/settings/two_factor_authentication_methods"
+  },
+  {
+    "name": "Mercari",
+    "website": "https://jp.mercari.com",
+    "host": "jp.mercari.com",
+    "doc": "https://help.jp.mercari.com/guide/articles/1103/"
+  },
+  {
+    "name": "Microsoft account",
+    "website": "https://microsoft.com",
+    "host": "microsoft.com",
+    "doc": "https://support.microsoft.com/en-us/account-billing/signing-in-with-a-passkey-09a49a86-ca47-406c-8acc-ed0e3c852c6d"
+  },
+  {
+    "name": "MINI",
+    "website": "https://mini.com",
+    "host": "mini.com",
+    "doc": ""
+  },
+  {
+    "name": "Mintbase Wallet",
+    "website": "https://wallet.mintbase.xyz/",
+    "host": "wallet.mintbase.xyz",
+    "doc": null
+  },
+  {
+    "name": "minter.io",
+    "website": "https://minter.io",
+    "host": "minter.io",
+    "doc": "https://help.minter.io/en/articles/8207212-adding-a-passkey-for-your-minter-io-account"
+  },
+  {
+    "name": "MIXI M",
+    "website": "https://m.mixi.com",
+    "host": "m.mixi.com",
+    "doc": "https://account.mixi.com/security/authenticators"
+  },
+  {
+    "name": "Money Forward ID",
+    "website": "https://id.moneyforward.com",
+    "host": "id.moneyforward.com",
+    "doc": "https://id.moneyforward.com/webauthn/credentials"
+  },
+  {
+    "name": "Moneybird",
+    "website": "https://moneybird.com",
+    "host": "moneybird.com",
+    "doc": "https://help.moneybird.nl/support/solutions/articles/103000250142-gebruik-passkeys-om-in-te-loggen-in-moneybird"
+  },
+  {
+    "name": "My Helsana (App only)",
+    "website": "https://helsana.ch",
+    "host": "helsana.ch",
+    "doc": "https://www.helsana.ch/en/helsana-group/about-us/legal/terms-of-use/myhelsana.html"
+  },
+  {
+    "name": "mySites.guru",
+    "website": "https://mysites.guru",
+    "host": "mysites.guru",
+    "doc": "https://manage.mysites.guru/en/your-account"
+  },
+  {
+    "name": "Namecheap",
+    "website": "https://namecheap.com",
+    "host": "namecheap.com",
+    "doc": "https://www.namecheap.com/support/knowledgebase/article.aspx/10102/45/how-can-i-use-the-u2f-method-for-twofactor-authentication/?_ga=2.209547478.59346046.1668175019-514097103.1666667155&_gl=1*8xtpo2*_ga*NTE0MDk3MTAzLjE2NjY2NjcxNTU.*_ga_7DMJMG20P8*MTY2ODE3NTAxOS4yLjEuMTY2ODE3NTIyOC4zOS4wLjA."
+  },
+  {
+    "name": "Nintendo",
+    "website": "https://nintendo.com",
+    "host": "nintendo.com",
+    "doc": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/62531"
+  },
+  {
+    "name": "Nord Account",
+    "website": "https://nordaccount.com",
+    "host": "nordaccount.com",
+    "doc": "https://my.nordaccount.com/account-settings/account-security/"
+  },
+  {
+    "name": "nulab",
+    "website": "https://apps.nulab.com",
+    "host": "apps.nulab.com",
+    "doc": "https://support.nulab.com/hc/en-us/articles/7745339110041-Passwordless-authentication-setup"
+  },
+  {
+    "name": "Nvidia",
+    "website": "https://nvidia.com",
+    "host": "nvidia.com",
+    "doc": "https://profile.nvgs.nvidia.com/security"
+  },
+  {
+    "name": "okta",
+    "website": "https://okta.com",
+    "host": "okta.com",
+    "doc": "https://help.okta.com/oie/en-us/Content/Topics/identity-engine/authenticators/configure-webauthn.htm"
+  },
+  {
+    "name": "OKX",
+    "website": "https://okx.com",
+    "host": "okx.com",
+    "doc": "https://www.okx.com/account/security/passkeys"
+  },
+  {
+    "name": "omg.lol",
+    "website": "https://omg.lol",
+    "host": "omg.lol",
+    "doc": "https://home.omg.lol/account"
+  },
+  {
+    "name": "OneLogin",
+    "website": null,
+    "host": "onelogin.com",
+    "doc": "https://onelogin.service-now.com/support?id=kb_article&sys_id=927dc6659778e150c90c3b0e6253af9a"
+  },
+  {
+    "name": "OnlyFans",
+    "website": "https://onlyfans.com",
+    "host": "onlyfans.com",
+    "doc": "https://onlyfans.com/my/settings/account/passwordless-sign-in"
+  },
+  {
+    "name": "Passage",
+    "website": "https://passage.id",
+    "host": "passage.id",
+    "doc": "https://console.passage.id/register"
+  },
+  {
+    "name": "Passage Authentication Demo",
+    "website": "https://passage.1password.com/demo",
+    "host": "passage.1password.com",
+    "doc": "https://passage.1password.com/demo"
+  },
+  {
+    "name": "Pastery",
+    "website": "https://pastery.net",
+    "host": "pastery.net",
+    "doc": "https://www.pastery.net/login/"
+  },
+  {
+    "name": "PayFit",
+    "website": "https://payfit.com",
+    "host": "payfit.com",
+    "doc": "https://support.payfit.com/en/articles/74363-two-factor-authentication-for-employees"
+  },
+  {
+    "name": "PayPal",
+    "website": "https://paypal.com",
+    "host": "paypal.com",
+    "doc": "https://www.paypal.com/us/cshelp/article/how-to-log-in-to-paypal-with-a-passkey-help997"
+  },
+  {
+    "name": "PlayStation",
+    "website": "https://playstation.com",
+    "host": "playstation.com",
+    "doc": "https://www.playstation.com/support/account/set-up-passkey-psn/"
+  },
+  {
+    "name": "Poloniex",
+    "website": "https://poloniex.com",
+    "host": "poloniex.com",
+    "doc": "https://poloniex.com/profile/security"
+  },
+  {
+    "name": "Porkbun",
+    "website": "https://porkbun.com/",
+    "host": "porkbun.com",
+    "doc": "https://kb.porkbun.com/article/119-how-to-secure-your-account-with-a-physical-security-key-using-webauthn"
+  },
+  {
+    "name": "Qapital",
+    "website": "https://qapital.com",
+    "host": "qapital.com",
+    "doc": "https://qapital.com"
+  },
+  {
+    "name": "rad.dad",
+    "website": "https://rad.dad",
+    "host": "rad.dad",
+    "doc": "https://rad.dad/help#accessing"
+  },
+  {
+    "name": "Robinhood",
+    "website": "https://robinhood.com",
+    "host": "robinhood.com",
+    "doc": ""
+  },
+  {
+    "name": "Roblox",
+    "website": "https://roblox.com",
+    "host": "roblox.com",
+    "doc": "https://en.help.roblox.com/hc/en-us/articles/20669991483156-Login-with-a-Passkey"
+  },
+  {
+    "name": "Scrooge Games",
+    "website": "https://scrooge.games",
+    "host": "scrooge.games",
+    "doc": "https://scrooge.games/login/"
+  },
+  {
+    "name": "Shakepay",
+    "website": null,
+    "host": "shakepay.com",
+    "doc": "https://help.shakepay.com/en/articles/8569018-how-to-enable-passkeys"
+  },
+  {
+    "name": "Shop Pay",
+    "website": "https://shop.app",
+    "host": "shop.app",
+    "doc": "https://pay.shopify.com/pay/webauthn/new"
+  },
+  {
+    "name": "Shopify",
+    "website": "https://www.shopify.com",
+    "host": "shopify.com",
+    "doc": "https://help.shopify.com/manual/your-account/logging-in/passkeys#create-a-passkey"
+  },
+  {
+    "name": "Simply.com",
+    "website": "https://simply.com",
+    "host": "simply.com",
+    "doc": "https://www.simply.com/en/controlpanel/user/"
+  },
+  {
+    "name": "Sirius XM Satellite Radio",
+    "website": "https://www.siriusxm.com",
+    "host": "siriusxm.com",
+    "doc": "https://www.siriusxm.com/player/welcome"
+  },
+  {
+    "name": "Skiff",
+    "website": "https://skiff.com",
+    "host": "skiff.com",
+    "doc": "https://app.skiff.com/mail/inbox?settingTab=security"
+  },
+  {
+    "name": "So-net",
+    "website": "https://so-net.ne.jp",
+    "host": "so-net.ne.jp",
+    "doc": "https://www.so-net.ne.jp/support/bioauth/"
+  },
+  {
+    "name": "Sony",
+    "website": "https://sony.com",
+    "host": "sony.com",
+    "doc": "https://www.playstation.com/support/account/set-up-passkey-psn/"
+  },
+  {
+    "name": "Spaceship (by NameCheap)",
+    "website": "https://spaceship.com",
+    "host": "spaceship.com",
+    "doc": "https://twitter.com/NamecheapCEO/status/1746970583944818722"
+  },
+  {
+    "name": "Stall-Frei.de",
+    "website": "https://stall-frei.de",
+    "host": "stall-frei.de",
+    "doc": "https://www.stall-frei.de/account/security/"
+  },
+  {
+    "name": "State of Michigan",
+    "website": "https://milogin.michigan.gov",
+    "host": "michigan.gov",
+    "doc": "https://milogin.michigan.gov/uisecure/selfservice/anonymous/passwordlessUserGuide"
+  },
+  {
+    "name": "Station-Drivers",
+    "website": "https://station-drivers.com",
+    "host": "station-drivers.com",
+    "doc": ""
+  },
+  {
+    "name": "Stuudium",
+    "website": "https://ope.ee",
+    "host": "ope.ee",
+    "doc": "https://abi.stuudium.com/turvavoti"
+  },
+  {
+    "name": "SWITCH edu-ID",
+    "website": "https://eduid.ch",
+    "host": "eduid.ch",
+    "doc": "https://help.switch.ch/eduid/faqs/#passkeys"
+  },
+  {
+    "name": "Synology",
+    "website": "https://www.synology.com",
+    "host": "synology.com",
+    "doc": "https://account.synology.com/security/"
+  },
+  {
+    "name": "Tailscale",
+    "website": "https://tailscale.com",
+    "host": "tailscale.com",
+    "doc": "https://tailscale.com/kb/1269/passkeys/"
+  },
+  {
+    "name": "Target",
+    "website": "https://target.com",
+    "host": "target.com",
+    "doc": "https://help.target.com/help/TargetGuestHelpArticleDetail?articleId=ka95d0000008R16AAE"
+  },
+  {
+    "name": "Telstra",
+    "website": "https://telstra.com.au",
+    "host": "telstra.com",
+    "doc": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey"
+  },
+  {
+    "name": "Tender",
+    "website": "https://tender.run",
+    "host": "tender.run",
+    "doc": "https://tender.run/passkeys"
+  },
+  {
+    "name": "The Hendrix",
+    "website": "https://thehendrixjc.com",
+    "host": "thehendrixjc.com",
+    "doc": "https://apply.thehendrixjc.com/new-application"
+  },
+  {
+    "name": "Thunder",
+    "website": "https://thunder.gg",
+    "host": "thunder.gg",
+    "doc": "https://thunder.gg/account"
+  },
+  {
+    "name": "TikTok",
+    "website": "https://tiktok.com",
+    "host": "tiktok.com",
+    "doc": "https://support.tiktok.com/en/log-in-troubleshoot/log-in/log-in-with-a-passkey#4"
+  },
+  {
+    "name": "TOKYU",
+    "website": "https://id.tokyu.co.jp",
+    "host": "id.tokyu.co.jp",
+    "doc": "https://help.id.tokyu.co.jp/hc/ja/articles/27513786973337"
+  },
+  {
+    "name": "Tripletex",
+    "website": "https://www.tripletex.no",
+    "host": "tripletex.no",
+    "doc": null
+  },
+  {
+    "name": "Trusona Authentication Cloud",
+    "website": "https://trusona.com",
+    "host": "trusona.com",
+    "doc": "https://www.trusona.com/customers/authentication-cloud"
+  },
+  {
+    "name": "Trustworthy",
+    "website": "https://trustworthy.com",
+    "host": "trustworthy.com",
+    "doc": "https://trustworthy.com"
+  },
+  {
+    "name": "Turnkey",
+    "website": "https://turnkey.com",
+    "host": "turnkey.com",
+    "doc": "https://docs.turnkey.com/passkeys/introduction"
+  },
+  {
+    "name": "Uber",
+    "website": "https://uber.com",
+    "host": "uber.com",
+    "doc": "https://help.uber.com/riders/article/using-passkeys-to-sign-in?nodeId=61701cda-3615-43b2-8187-1440e91035d8"
+  },
+  {
+    "name": "Uninbox",
+    "website": "https://app.uninbox.com/join/secure",
+    "host": "app.uninbox.com",
+    "doc": "https://app.uninbox.com/join/secure"
+  },
+  {
+    "name": "United Southeast Federal Credit Union",
+    "website": "https://usfcu.org",
+    "host": "usfcu.org",
+    "doc": "https://my.usfcu.org/settings/security"
+  },
+  {
+    "name": "usesarchbtw.lol",
+    "website": "https://usesarchbtw.lol",
+    "host": "usesarchbtw.lol",
+    "doc": "https://auth.usesarchbtw.lol"
+  },
+  {
+    "name": "Vault Vision",
+    "website": "https://vaultvision.com/",
+    "host": "vaultvision.com",
+    "doc": "https://docs.vaultvision.com/index.html"
+  },
+  {
+    "name": "Vercel",
+    "website": "https://vercel.com",
+    "host": "vercel.com",
+    "doc": "https://vercel.com/docs/accounts/create-an-account#login-methods-and-connections"
+  },
+  {
+    "name": "Virgin Media",
+    "website": "https://virginmedia.com",
+    "host": "virginmedia.com",
+    "doc": "https://virginmedia.com"
+  },
+  {
+    "name": "Visma",
+    "website": "https://visma.com",
+    "host": "home.visma.com",
+    "doc": "https://community.visma.com/t5/Brukertips-i-Visma-net-ERP/Hvordan-kan-du-aktivere-totrinnskontroll-med-FIDO2/ta-p/293830"
+  },
+  {
+    "name": "vk",
+    "website": "https://vk.com",
+    "host": "vk.com",
+    "doc": "https://vk.com/press/id-onepass"
+  },
+  {
+    "name": "Voura",
+    "website": "https://voura.com/",
+    "host": "voura.com",
+    "doc": "https://app.voura.com/auth/login"
+  },
+  {
+    "name": "WebAuthn.io",
+    "website": "https://webauthn.io",
+    "host": "webauthn.io",
+    "doc": "https://webauthn.io"
+  },
+  {
+    "name": "WhatsApp (iOS and Android)",
+    "website": "https://whatsapp.com",
+    "host": "whatsapp.com",
+    "doc": "https://faq.whatsapp.com/1850567238795036/"
+  },
+  {
+    "name": "World of Hyatt",
+    "website": "https://www.hyatt.com",
+    "host": "hyatt.com",
+    "doc": "https://www.hyatt.com/en-US/member/passkey/what-is-passkey"
+  },
+  {
+    "name": "X (Twitter) iOS",
+    "website": "https://x.com",
+    "host": "x.com",
+    "doc": "https://help.twitter.com/en/managing-your-account/how-to-use-passkey"
+  },
+  {
+    "name": "XenForo (Community)",
+    "website": "https://xenforo.com/community",
+    "host": "xenforo.com/community",
+    "doc": "https://xenforo.com/community/threads/passwordless-logins-with-passkeys.220458/"
+  },
+  {
+    "name": "Yahoo!",
+    "website": "https://yahoo.com",
+    "host": "yahoo.com",
+    "doc": "https://in.help.yahoo.com/kb/SLN35635.html"
+  },
+  {
+    "name": "Yahoo! JAPAN",
+    "website": "https://yahoo.co.jp",
+    "host": "yahoo.co.jp",
+    "doc": "https://about.yahoo.co.jp/pr/release/2023/03/14b/"
+  },
+  {
+    "name": "Yandex",
+    "website": "https://yandex.ru",
+    "host": "yandex.ru",
+    "doc": "https://yandex.ru/support/id/no-password.html#face-or-touchpass"
+  },
+  {
+    "name": "Zitadel",
+    "website": "https://zitadel.com/",
+    "host": "zitadel.com",
+    "doc": "https://zitadel.com/docs/guides/integrate/login-ui/passkey#login-with-passkey"
+  },
+  {
+    "name": "Zoho",
+    "website": "https://zoho.com",
+    "host": "zoho.com",
+    "doc": "https://help.zoho.com/portal/en/kb/accounts/faqs-troubleshooting/troubleshooting/sign-in/articles/passkey-sign-in-failed-on-mac#What_happened"
+  }
+]

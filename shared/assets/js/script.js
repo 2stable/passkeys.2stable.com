@@ -1,0 +1,1 @@
+document.getElementById("load-candidates").addEventListener("click",function(){const e=document.getElementById("candidate-services");e.innerHTML="",["Service A","Service B","Service C","Service D"].forEach(t=>{const n=document.createElement("li");n.textContent=t,e.appendChild(n)}),e.style.display="block"});
