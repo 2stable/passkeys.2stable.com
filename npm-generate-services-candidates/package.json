@@ -1,0 +1,10 @@
+{
+  "name": "generate-services-candidates",
+  "version": "1.0.0",
+  "description": "generate-services-candidates",
+  "scripts": {
+    "generate services-candidates.json": "cd .. && cd _scripts && ruby passkeys-candidates.rb",
+    "downloadadd images and add path to services-candidates.json": "cd .. && cd _scripts && ruby parse-images.rb",
+    "generate services pages based on services-candidates.json": "cd .. && cd _scripts && ruby services-candidates.rb"
+  }
+}

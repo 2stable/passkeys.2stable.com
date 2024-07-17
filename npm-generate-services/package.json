@@ -1,0 +1,9 @@
+{
+  "name": "generate-services",
+  "version": "1.0.0",
+  "description": "generate-services",
+  "scripts": {
+    "generate services.json": "cd .. && cd _scripts && ruby passkeys.rb",
+    "generate services pages based on services.json": "cd .. && cd _scripts && ruby services.rb"
+  }
+}

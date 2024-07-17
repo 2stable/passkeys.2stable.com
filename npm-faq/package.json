@@ -1,0 +1,9 @@
+{
+  "name": "fix-faq",
+  "version": "1.0.0",
+  "description": "fix-faq",
+  "scripts": {
+    "copy files": "cd .. && cp -r faq.passkeys.2stable.com/help/iOS/ _help/iOS/",    
+    "pathmdfiles": "cd .. && node pathmdfiles.js && node pathpermalinks.js"
+  }
+}
