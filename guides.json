@@ -1,0 +1,27 @@
+[
+  {
+    "doc": "https://passkeys.2stable.com/guides/how-to-enable-passkeys-for-your-docusign-account/",
+    "name": "DocuSign",
+    "host": "account.docusign.com"
+  },
+  {
+    "doc": "https://passkeys.2stable.com/guides/how-to-enable-passkeys-for-your-nintendo-account/",
+    "name": "Nintendo",
+    "host": "accounts.nintendo.com"
+  },
+  {
+    "doc": "https://passkeys.2stable.com/guides/how-to-enable-passkeys-for-your-kayak-account/",
+    "name": "KAYAK",
+    "host": "kayak.com"
+  },
+  {
+    "doc": "https://passkeys.2stable.com/guides/how-to-enable-passkeys-for-your-google-account/",
+    "name": "Google",
+    "host": "google.com"
+  },
+  {
+    "doc": "https://passkeys.2stable.com/guides/how-to-enable-passkeys-for-robinhood-account/",
+    "name": "Robinhood",
+    "host": "robinhood.com"
+  }
+]
